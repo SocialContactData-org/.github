@@ -3,7 +3,7 @@
 This is the community space for [socialcontactdata.org](https://socialcontactdata.org), a collection of social contact datasets for infectious disease research.
 
 **Have a question about the data, or an idea to share?**
-👉 Join the conversation in our [Discussions](../../discussions)
+👉 Join the conversation in our https://github.com/orgs/SocialContactData-org/discussions
 
 - ❓ **Q&A:** ask about the datasets, methods or tools
 - 💡 **Ideas:** suggest new data or improvements
